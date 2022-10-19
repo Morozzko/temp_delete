@@ -1,0 +1,15 @@
+@layer base {
+  html {
+      -webkit-tap-highlight-color: transparent;
+  }
+}
+
+@layer components {
+
+}
+
+@layer utilities {
+  @variants responsive {
+
+  }
+}
